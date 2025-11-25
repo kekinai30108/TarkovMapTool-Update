@@ -1,1 +1,1 @@
-# TarkovMapTool-Update
+# 塔科夫簡易地圖查看器-小夥伴專用版V2.0-Update
