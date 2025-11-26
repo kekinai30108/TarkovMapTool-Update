@@ -1,4 +1,5 @@
 {
-    "version": "V2.0",
-    "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V2.0/TarkovMapTool_V2.0.exe"
+  "version": "V2.1",
+  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V2.1/TarkovMapTool_V2.1.exe",
+  "notes": "1. 修改了地圖標記功能的邏輯\n2. 優化的UI介面\n3. 覆蓋層工具列優化\n4. 修復部分機器缺少DLL檔案的提醒"
 }
