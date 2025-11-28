@@ -1,5 +1,5 @@
 {
-  "version": "V2.2",
-  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V2.2/TarkovMapTool_V2.2.exe",
-  "notes": "1. 新增腰射輔助瞄準框功能。\\n2. 覆蓋層工具列改為圖示 + 文字說明，更加清晰。"
+  "version": "V2.3",
+  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V2.3/TarkovMapTool_V2.3.exe",
+  "notes": "1. 修復了鎖定地圖會導致軟體閃退問題。\\n2. 覆蓋層工具列功能重新排版。"
 }
