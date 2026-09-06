@@ -1,5 +1,5 @@
 {
   "version": "V3.0",
-  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V2.3/TarkovMapTool_V2.3.exe",
-  "notes": "1. 修復了鎖定地圖會導致軟體閃退問題。\\n2. 覆蓋層工具列功能重新排版。"
+  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V3.0/TarkovMapTool.exe",
+  "notes": "【塔科夫地圖查看器－小夥伴專用版 V3.0】\n\n1. 全新深色介面與自訂頂部列，擴大地圖顯示區域。\n2. 地圖支援越過圖片邊界自由拖曳，保留縮放、雙擊重置與瀏覽位置記憶。\n3. 新增地圖搜尋、收藏與資料夾分類。\n4. 保留覆蓋層透明度調整、Home 開關與 Insert 滑鼠穿透。\n5. 整合四角輔助瞄準框，可調整顏色、線長、粗細、間距與顯示螢幕，支援滑桿、數字輸入及 F8 開關。\n6. 改善版本檢查錯誤訊息，修正更新提示文字對比不足。\n7. 改為單一 EXE，不需安裝 Python；地圖維持外部 maps 資料夾，方便自行新增或替換。\n8. 移除地圖繪圖功能。\n\n【更新方式】\n關閉舊程式後替換 TarkovMapTool.exe，保留 maps 資料夾與 settings.json。"
 }
