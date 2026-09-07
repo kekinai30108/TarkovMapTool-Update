@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V3.1.0/TarkovMapTool.exe",
-  "notes": "【塔科夫地圖查看器－小夥伴專用版 V3.1.0】\n\n1. 修正覆蓋層透明度在按 Home 關閉後重新開啟時偶爾被重設的問題，會保持最後一次滑桿設定。\n2. 覆蓋層改為無外框地圖畫面，保留精簡的 Home 提示與控制工具列。\n3. 覆蓋層可直接切換地圖，主視窗會同步選取內容。\n4. 地圖支援越過圖片邊界自由拖曳，方便檢視任意區域。\n5. 整合四角輔助瞄準框，支援顏色、線長、粗細、間距、螢幕與 F8 開關。\n6. 改善遠端更新檢查與提示文字可讀性。\n7. 維持單一 EXE 與外部 maps 資料夾設計，可自行更新地圖資料。\n\n【更新方式】\n關閉舊程式後，下載並覆蓋 TarkovMapTool.exe；請保留 maps 資料夾與 settings.json。"
+  "version": "3.1.3",
+  "url": "https://github.com/kekinai30108/TarkovMapTool-Update/releases/download/V3.1.3/TarkovMapTool.exe",
+  "notes": "【塔科夫地圖查看器－小夥伴專用版 V3.1.0】\n\n1. - 修正透明度滑桿調整後立即按 **Home** 時，數值偶爾跳回 20% 的問題。\n2. - Home 在滑桿仍有鍵盤焦點時，會保留最後一次透明度設定並正常開關覆蓋層。\n3. - 修正地圖拖曳在圖片邊界附近可能出現游標與地圖位置脫離的問題。\n4. - 維持覆蓋層無外框、地圖直接切換、輔助瞄準框與外部 `maps` 資料夾設計。\n\n【更新方式】\n關閉舊程式後，下載並覆蓋 TarkovMapTool.exe；請保留 maps 資料夾與 settings.json。"
 }
