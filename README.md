@@ -177,8 +177,4 @@ TarkovMapTool/
 
 V3.1 不提供地圖繪圖、路線或圖釘功能，主要用途是圖片查看與輔助顯示。
 
-## 問題回報
-
-若遇到異常，請至 [GitHub Issues](https://github.com/kekinai30108/TarkovMapTool-Update/issues) 提供程式版本、Windows 版本、重現步驟與錯誤訊息；涉及顯示問題時，可補充螢幕解析度、縮放比例與截圖。
-
 ---
